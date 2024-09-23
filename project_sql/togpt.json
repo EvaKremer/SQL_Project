@@ -1,0 +1,74 @@
+[
+  {
+    "skills": "bigquery",
+    "avg_salary": "111175.0"
+  },
+  {
+    "skills": "airflow",
+    "avg_salary": "111175.0"
+  },
+  {
+    "skills": "tableau",
+    "avg_salary": "109006.3"
+  },
+  {
+    "skills": "windows",
+    "avg_salary": "108283.3"
+  },
+  {
+    "skills": "spark",
+    "avg_salary": "102500.0"
+  },
+  {
+    "skills": "flow",
+    "avg_salary": "102500.0"
+  },
+  {
+    "skills": "git",
+    "avg_salary": "102500.0"
+  },
+  {
+    "skills": "hadoop",
+    "avg_salary": "102500.0"
+  },
+  {
+    "skills": "scikit-learn",
+    "avg_salary": "102500.0"
+  },
+  {
+    "skills": "looker",
+    "avg_salary": "99979.4"
+  },
+  {
+    "skills": "python",
+    "avg_salary": "96072.8"
+  },
+  {
+    "skills": "sql",
+    "avg_salary": "86346.7"
+  },
+  {
+    "skills": "gcp",
+    "avg_salary": "80492.2"
+  },
+  {
+    "skills": "pyspark",
+    "avg_salary": "77757.0"
+  },
+  {
+    "skills": "excel",
+    "avg_salary": "74239.2"
+  },
+  {
+    "skills": "sap",
+    "avg_salary": "60108.8"
+  },
+  {
+    "skills": "powerpoint",
+    "avg_salary": "60108.8"
+  },
+  {
+    "skills": "gdpr",
+    "avg_salary": "43200.0"
+  }
+]

@@ -2,7 +2,7 @@
 Question: What are the top-paying data analyst jobs?
 - Using ROUND to change decimal place and remove .0 
 - Changing Date Data Type to remove exact time of posting
-- Identify the top 10 highest-paying Data Analyst roles that are avalible remotely.
+- Identify the top 10 highest-paying Data Analyst roles that are avalible remotely in Poland.
 - Focus on job postings with salary specified (remove NULLs)
 - Why? Highlight the top-paying opportunities for Data Analysts, offering insights from dataset
 */
@@ -12,7 +12,7 @@ SELECT
     job_title,
     job_location,
     job_schedule_type,
-    ROUND(salary_year_avg),
+    ROUND(salary_year_avg) AS salary_year_avg,
     job_posted_date::date,
     name AS company_name
 FROM
